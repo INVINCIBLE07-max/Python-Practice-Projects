@@ -7,7 +7,7 @@
 1 = snake'''
 
 
-'''water kills gun and snake 
+'''water kills gun 
 gun kills snake 
 snake drinks/kills water 
 
